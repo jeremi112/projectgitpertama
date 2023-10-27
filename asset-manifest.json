@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/projectgitpertama/static/css/main.073c9b0a.css",
-    "main.js": "/projectgitpertama/static/js/main.d1a87e91.js",
+    "main.css": "/projectgitpertama/static/css/main.6ccd65a8.css",
+    "main.js": "/projectgitpertama/static/js/main.785cf6c3.js",
     "static/js/787.d94791d3.chunk.js": "/projectgitpertama/static/js/787.d94791d3.chunk.js",
-    "static/media/logo.svg": "/projectgitpertama/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background1.jpg": "/projectgitpertama/static/media/background1.fb3a200a69ade0d1d957.jpg",
+    "static/media/profile.jpg": "/projectgitpertama/static/media/profile.f1cbf52795683b550892.jpg",
     "index.html": "/projectgitpertama/index.html",
-    "main.073c9b0a.css.map": "/projectgitpertama/static/css/main.073c9b0a.css.map",
-    "main.d1a87e91.js.map": "/projectgitpertama/static/js/main.d1a87e91.js.map",
+    "main.6ccd65a8.css.map": "/projectgitpertama/static/css/main.6ccd65a8.css.map",
+    "main.785cf6c3.js.map": "/projectgitpertama/static/js/main.785cf6c3.js.map",
     "787.d94791d3.chunk.js.map": "/projectgitpertama/static/js/787.d94791d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d1a87e91.js"
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.785cf6c3.js"
   ]
 }
